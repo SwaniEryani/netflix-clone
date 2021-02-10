@@ -2,6 +2,7 @@
   color: white;
   margin-left: 20Px;
   padding: 2px;
+  object-fit: contain;
 }
 .row__posters{
   display: flex;
